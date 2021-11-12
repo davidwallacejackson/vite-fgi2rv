@@ -1,0 +1,14 @@
+{
+  "name": "vite-project",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite --debug",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "dependencies": {
+    "monaco-editor": "^0.29.1",
+    "monaco-yaml": "2.5.1",
+    "vite": "^2.7.0-beta.4"
+  }
+}
